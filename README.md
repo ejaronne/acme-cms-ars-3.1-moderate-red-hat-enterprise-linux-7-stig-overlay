@@ -183,7 +183,7 @@ The JSON InSpec results file may also be loaded into a __[full heimdall server](
 * Sam Cornwell
 
 ## Contributing and Getting Help
-To report a bug or feature request, please open an [issue](https://github.com/CMSgov/cms-ars-3.1-moderate-red-hat-enterprise-linux-7-stig-overlay/issues/new).
+To report a bug or feature request, please open an [issue](https://github.com/ejaronne/cms-ars-3.1-moderate-red-hat-enterprise-linux-7-stig-overlay/issues/new).
 
 ## License
 This is licensed under the [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) license. 
